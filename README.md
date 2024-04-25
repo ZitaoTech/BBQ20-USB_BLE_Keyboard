@@ -4,7 +4,8 @@
 ## Compare of the 3 Wireless keyboards:  
 |Keyboard Type |Dimension |Trackpad Backlight |Layout |
 |:---|---:|:---    |:---  |
-|BBQ10 |10x20    |Yes     |linear      |
+|BBQ10 |10x20    |Yes     |linear      |  
+
 [**About this keyboard**  ](#about-this-keyboard---)  
 [Before you buy/use  ](#before-you-buyuse---)  
 [**How to use this keyboard**  ](#how-to-use-this-keyboard---)  
