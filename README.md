@@ -175,8 +175,8 @@ PS: The scroll wheel function of the trackpoad is very useful when you watch tik
 # <a name='others  '>others   </a>  
 ## <a name='dimensions about the keyboard  '>dimensions about the keyboard   </a>  
 The picture below shows the outerline dimension of the keyboard  
-<img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/dimension_Q20.png" width = "700" height = "500" alt="BLE VERSION CHECK" align=center />  
-Thickness of the keyboard: 12.9mm  
+![image](https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/assets/145678024/9ce275d3-3c9a-444e-91e4-9e8f1651ca22)
+Thickness of the keyboard: 13.3mm  
 ## <a name='Weight  '>Weight   </a>  
 Without the battery the weight of the keyboard is 45.5 g.  
 With the battery the weight of the keyboard is 65 g.  
