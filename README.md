@@ -23,7 +23,7 @@
 # <a name='About this keyboard  '>About this keyboard   </a>
 This mini Keyboard uses the original **Blackberry Q20** keyboard with Trackpad and powered by the NRF52840 Microcontroller and operates under modified ZMK Firmware.  
 
-[A Brief Video of using this tiny keyboard](https://www.youtube.com/watch?v=GYRP4RT6_Dc)
+
 
 Here are some **main Features:**  
 **Processor**: [NRF52840](https://www.nordicsemi.com/products/nrf52840) from Nordic Semiconductor  
@@ -42,12 +42,12 @@ Here are some **main Features:**
 
 **Bluetooth version check**: This keyboard can only be paired wirelessly with devices that have **BLE 5.0 modul or higher**, please check if your device have the right Bluetooth modul, otherwise the keyboard can not work with your device wirelessly!  
 How to check the Bluetooth version of your device: google (your device name) like iphone 8 and plus Bluetooth version and you will find the answer like this:
- <img src="https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/blob/main/Pics/BLE%20VERSION%20check.png" width = "500" height = "200" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BLE%20VERSION%20check.png" width = "500" height = "200" alt="BLE VERSION CHECK" align=center />
 
 **About the battery**: If you want to buy the keyboard, **you will need to buy the battery yourself** because of the [international shipping policy of Lithium battery](https://www.dhl.de/en/toolbar/footer/informationen/gefahrgut.html) from DHL. The Battery type that you need to buy is **BL-5B**. You can first check if you can buy it on your local Amazon or ebay webside. If there is not, you can buy the battery on Aliexpress. **Just buy the cheapest one**, in Europe the cheapest one will cost approximaltely 6 Euros. Here are some pictures of the battery price from Amazon, ebay and Aliexpress:  
- <img src="https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Amazon.png" width = "225" height = "150" alt="BL-5B on Amazon" align=center />
- <img src="https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20ebay.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
- <img src="https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Aliexpress.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Amazon.png" width = "225" height = "150" alt="BL-5B on Amazon" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20ebay.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Aliexpress.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
 
 ## Where to buy
 
@@ -61,9 +61,9 @@ When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing 
 
 ## <a name='Keymap  '>Keymap   </a>
 The following pictures show the default keymap of the keyboard  
- <img src="https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/blob/main/Pics/Layer_1.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
- <img src="https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/blob/main/Pics/Layer_2.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
- <img src="https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/blob/main/Pics/Layer_3.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Layer_1.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Layer_2.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Layer_3.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
 
 ## <a name='What to do when you first get this keyboard  '>What to do when you first get this keyboard   </a>  
 Here are a few steps to connect the keyboard with your device when you first get hands on this keyboard:  
@@ -108,7 +108,6 @@ There are 4 LED controls on this keyboard:
 **1. Charging LED**: the read led on the left side of the keyboard indicates if the battery of the keyboard is fully charged. When the battery is being charged, the light shows like this. When the battery is fully charged, the led will go out.  
 **2. Keyboard backlight**: When you power the keyboard on, the backlight of the QWERTY keyboard area will be turned on immediately. If the keyboard doesn't detect any key press for more than 30 seconds, the backlight will be turned off. Also the brightness of the backlight can be manuelly set. You can find the related action on layer 3. The brightness of the keyboard backlight is set at 40% by default. The brightness adjustment step  in percent is 10%.  
 **3. Big button backlight**: The backlight of this area works as indicator of the current number of layer. At Layer 1, the backlight is turned off. At Layer2, the backlight is turned on. At Layer3, the backlight starts to breath.  
-**4. Trackpad backlight**: The backlight of the trackpad works as indicator of capslock. When capslock is on, the backlight will be turned on and also the trackpad will work as scroll wheel. You can now sweep your finger on the trackpad to quickly browse a webpage or file.  
 
 ## <a name='How to update the firmware  '> How to update the firmware   </a>
 This keyboard uses the bootloader from [nice!nano](https://nicekeyboards.com/nice-nano). Here are the steps that you need to do to update the firmware:  
