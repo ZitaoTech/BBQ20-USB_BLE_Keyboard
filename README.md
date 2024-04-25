@@ -1,6 +1,6 @@
 # BBQ20-USB_BLE_Keyboard  
 ![image](https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/assets/145678024/3b9693e1-0408-49dd-b2bc-d5498de52704)
-
+# [How to customoze your own keymap:](https://github.com/ZitaoTech/zmk_config_Q20)  
 [**About this keyboard**  ](#about-this-keyboard---)  
 [Before you buy/use  ](#before-you-buyuse---)  
 [**How to use this keyboard**  ](#how-to-use-this-keyboard---)  
