@@ -3,7 +3,7 @@
 # [How to customoze your own keymap:](https://github.com/ZitaoTech/zmk_config_Q20)  
 ## Compare of the 3 Wireless keyboards:  
 |Keyboard Type |Dimension |Trackpad Backlight |Layout |
-|:---|---:|:---    |:---  |
+|:---|:---|:---    |:---  |
 |BBQ10 |53.13x76.67x12.9mm    |Yes     |Linear      |
 |BBQ20 |54.97x81.95x13.3mm    |No     |Linear      | 
 |BB9900 |56.91x74.57x13.1mm    |Yes     |Smile      |  
