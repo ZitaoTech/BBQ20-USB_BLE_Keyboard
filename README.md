@@ -1,5 +1,5 @@
 # BBQ20-USB_BLE_Keyboard  
-<img src="https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/blob/main/gallery/IMG_0023.jpeg" width = "427" height = "307" alt="View1" align=center />  
+ 
 [**About this keyboard**  ](#about-this-keyboard---)  
 [Before you buy/use  ](#before-you-buyuse---)  
 [**How to use this keyboard**  ](#how-to-use-this-keyboard---)  
