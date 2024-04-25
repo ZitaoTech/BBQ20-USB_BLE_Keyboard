@@ -68,7 +68,7 @@ When we power the keyboard on, we are at Layer 1: the QWERTY layer. By pressing 
 
 ## <a name='Keymap  '>Keymap   </a>
 The following pictures show the default keymap of the keyboard  
- <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Layer_1.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
+ <img src="https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/blob/main/Pics/Q20_Layer_1.jpg" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
  <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Layer_2.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
  <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/Layer_3.png" width = "788" height = "861" alt="BLE VERSION CHECK" align=center />
 
