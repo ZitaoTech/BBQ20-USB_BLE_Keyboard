@@ -1,5 +1,6 @@
 # BBQ20-USB_BLE_Keyboard  
-![image](https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/assets/145678024/3b9693e1-0408-49dd-b2bc-d5498de52704)
+![image](https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/assets/145678024/3b9693e1-0408-49dd-b2bc-d5498de52704)  
+2024.04.26 update: add documentation about [sticky shift](https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/tree/main/Firmware)  
 # [How to customoze your own keymap:](https://github.com/ZitaoTech/zmk_config_Q20)  
 ## Compare of the 3 Wireless keyboards:  
 |Keyboard Type |Dimension |Trackpad Backlight |Layout |
