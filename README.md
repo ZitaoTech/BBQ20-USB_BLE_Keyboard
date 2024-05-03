@@ -2,7 +2,8 @@
 ![image](https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/assets/145678024/3b9693e1-0408-49dd-b2bc-d5498de52704)  
 2024.04.26 update: add documentation about [sticky shift](https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard/tree/main/Firmware)  
 # [How to customoze your own keymap:](https://github.com/ZitaoTech/zmk_config_Q20)  
-## [Welcome to join my discord channel if you have any questions](https://discord.gg/WzPthAmMbP)  
+## [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
+## [Ready to Buy? Click Here!](#where-to-buy---)  
 ## Compare of the 3 Wireless keyboards:  
 |Keyboard Type |Dimension |Trackpad Backlight |Layout |
 |:---|:---|:---    |:---  |
@@ -58,7 +59,7 @@ How to check the Bluetooth version of your device: google (your device name) lik
  <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20ebay.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
  <img src="https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard/blob/main/Pics/BL-5B%20on%20Aliexpress.png" width = "225" height = "150" alt="BL-5B on Ebay" align=center />
 
-## Where to buy
+## <a name='Where to buy  '>Where to buy   </a>  
 
 **Pay with US dollar**: [Tindie](https://www.tindie.com/products/zitaotech/blackberry-Q20-bleusb-keyboard/)  
 **Pay with Euro**: [Lectronz](https://lectronz.com/products/blackberry-bbq20-bleusb-keyboard)  
