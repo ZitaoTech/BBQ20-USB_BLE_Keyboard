@@ -10,7 +10,7 @@
 |BBQ10 |53.13x76.67x12.9mm    |Yes     |Linear      |
 |BBQ20 |54.97x81.95x13.3mm    |No     |Linear      | 
 |BB9900 |56.91x74.57x13.1mm    |Yes     |Smile      |  
-|BB9993 |48.60x55.02x13.3mm    |Yes     |Linear      |  
+|P9993 |48.60x55.02x13.3mm    |Yes     |Linear      |  
 
 [**About this keyboard**  ](#about-this-keyboard---)  
 [Before you buy/use  ](#before-you-buyuse---)  
